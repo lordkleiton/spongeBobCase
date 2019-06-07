@@ -1,0 +1,22 @@
+{
+  "name": "@lordkleiton/spongebobcase",
+  "version": "1.0.3",
+  "description": "A simple NodeJS package to SpOnGeBoBcAsE your strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lordkleiton/spongeBobCase.git"
+  },
+  "keywords": [
+    "spongebob"
+  ],
+  "author": "lordkleiton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lordkleiton/spongeBobCase/issues"
+  },
+  "homepage": "https://github.com/lordkleiton/spongeBobCase#readme"
+}
