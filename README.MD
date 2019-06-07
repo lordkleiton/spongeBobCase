@@ -12,3 +12,6 @@ Why not?
 
 # Usage
 
+    let sbc = require('@lordkleiton/spongebobcase').spongeBobCase
+
+    console.log(sbc('perdi bastante tempo fazendo isso'))
