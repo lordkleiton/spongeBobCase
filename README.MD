@@ -12,6 +12,16 @@ Why not?
 
 # Usage
 
+## NPM
+
     let sbc = require('@lordkleiton/spongebobcase').spongeBobCase
 
-    console.log(sbc('perdi bastante tempo fazendo isso'))
+    console.log(sbc('perdi bastante tempo tentando faz isso funcionar no npm'))
+
+or
+
+    let sbc = require('@lordkleiton/spongebobcase').spongeBobCase
+
+    let a = sbc('perdi bastante tempo tentando faz isso funcionar no npm')
+
+    console.log(a)
